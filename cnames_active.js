@@ -584,7 +584,6 @@ var cnames_active = {
   "deck-of-cards": "pakastin.github.io/deck-of-cards",
   "declarativ": "fennifith.github.io/declarativ", // noCF
   "deepcodes": "deepduggal.github.io/deepcodes",
-  "deepfractal": "munrocket.github.io/deep-fractal",
   "deepu": "deepu105.github.io",
   "defi": "finom.github.io/defi.js.org",
   "defresh": "hello936.github.io/defresh",
@@ -1377,6 +1376,7 @@ var cnames_active = {
   "maker": "microsoft.github.io/maker.js",
   "makes": "makesjs.github.io",
   "mali": "malijs.github.io",
+  "mandelbrot": "munrocket.github.io/deep-mandelbrot",
   "manic": "manicjs.github.io",
   "mansiart": "mansiart.github.io/mansiart",
   "manu": "botsdemanu.github.io/manu",
